@@ -2,6 +2,10 @@
 
 Raspberry Pi compatible Docker Image with H2O HTTP Server based on Linux Alpine.
 
+## Build the Docker Image
+```docker build -t jdequeant/rpi-alpine-h2o .
+```
+
 ## License
 
 DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE  
