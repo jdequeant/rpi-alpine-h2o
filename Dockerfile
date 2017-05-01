@@ -27,10 +27,10 @@ cmake -DCMAKE_C_FLAGS_RELEASE= \
 -DCMAKE_INSTALL_PREFIX=./dist \
 -DCMAKE_BUILD_TYPE=Release \
 -DCMAKE_VERBOSE_MAKEFILE=ON \
--Wno-dev&& \
+-Wno-dev && \
 make && \
 make install && \
-apk del alpine-sdk cmake openssl-dev automake kibtool autoconf ninja bison && \
+apk del alpine-sdk cmake openssl-dev automake libtool autoconf ninja bison && \
 rm -rf /var/cache/apk/* && \
 cd / && \
 mkdir -p /var/run/h2o && \
