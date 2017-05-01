@@ -1,0 +1,115 @@
+h2o server (pid:10) is ready to serve requests
+[OCSP Stapling] disabled for certificate file:/etc/h2o/server.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/server.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/alternate.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/alternate.crt
+h2o server (pid:7) is ready to serve requests
+[OCSP Stapling] disabled for certificate file:/etc/h2o/server.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/server.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/alternate.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/alternate.crt
+h2o server (pid:7) is ready to serve requests
+[OCSP Stapling] disabled for certificate file:/etc/h2o/alternate.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/server.crt
+fetch-ocsp-response (using OpenSSL 1.0.2k  26 Jan 2017)
+[OCSP Stapling] disabled for certificate file:/etc/h2o/server.crt
+failed to extract ocsp URI from /etc/h2o/alternate.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/alternate.crt
+h2o server (pid:8) is ready to serve requests
+[OCSP Stapling] disabled for certificate file:/etc/h2o/alternate.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/server.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/server.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/alternate.crt
+h2o server (pid:9) is ready to serve requests
+[OCSP Stapling] disabled for certificate file:/etc/h2o/server.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/server.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/alternate.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/alternate.crt
+starting new worker 13
+[INFO] raised RLIMIT_NOFILE to 1048576
+h2o server (pid:13) is ready to serve requests
+fetch-ocsp-response (using OpenSSL 1.0.2k  26 Jan 2017)
+fetch-ocsp-response (using OpenSSL 1.0.2k  26 Jan 2017)
+fetch-ocsp-response (using OpenSSL 1.0.2k  26 Jan 2017)
+fetch-ocsp-response (using OpenSSL 1.0.2k  26 Jan 2017)
+failed to extract ocsp URI from /etc/h2o/server.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/server.crt
+failed to extract ocsp URI from /etc/h2o/alternate.crt
+failed to extract ocsp URI from /etc/h2o/server.crt
+failed to extract ocsp URI from /etc/h2o/alternate.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/alternate.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/alternate.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/server.crt
+h2o server (pid:7) is ready to serve requests
+[OCSP Stapling] disabled for certificate file:/etc/h2o/server.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/alternate.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/alternate.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/server.crt
+h2o server (pid:7) is ready to serve requests
+[OCSP Stapling] disabled for certificate file:/etc/h2o/server.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/server.crt
+fetch-ocsp-response (using OpenSSL 1.0.2k  26 Jan 2017)
+[OCSP Stapling] disabled for certificate file:/etc/h2o/alternate.crt
+failed to extract ocsp URI from /etc/h2o/alternate.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/alternate.crt
+h2o server (pid:7) is ready to serve requests
+[OCSP Stapling] disabled for certificate file:/etc/h2o/server.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/alternate.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/server.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/alternate.crt
+h2o server (pid:7) is ready to serve requests
+[OCSP Stapling] disabled for certificate file:/etc/h2o/server.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/alternate.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/server.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/alternate.crt
+starting new worker 10
+starting new worker 10
+starting new worker 10
+starting new worker 10
+h2o server (pid:7) is ready to serve requests
+[OCSP Stapling] disabled for certificate file:/etc/h2o/alternate.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/server.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/server.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/alternate.crt
+h2o server (pid:7) is ready to serve requests
+[OCSP Stapling] disabled for certificate file:/etc/h2o/alternate.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/server.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/alternate.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/server.crt
+h2o server (pid:7) is ready to serve requests
+[OCSP Stapling] disabled for certificate file:/etc/h2o/server.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/server.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/alternate.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/alternate.crt
+h2o server (pid:7) is ready to serve requests
+[OCSP Stapling] disabled for certificate file:/etc/h2o/server.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/alternate.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/server.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/alternate.crt
+h2o server (pid:7) is ready to serve requests
+[OCSP Stapling] disabled for certificate file:/etc/h2o/server.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/alternate.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/alternate.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/server.crt
+h2o server (pid:7) is ready to serve requests
+[OCSP Stapling] disabled for certificate file:/etc/h2o/server.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/server.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/alternate.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/alternate.crt
+h2o server (pid:8) is ready to serve requests
+[OCSP Stapling] disabled for certificate file:/etc/h2o/server.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/server.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/alternate.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/alternate.crt
+h2o server (pid:33) is ready to serve requests
+[OCSP Stapling] disabled for certificate file:/etc/h2o/server.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/alternate.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/server.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/alternate.crt
+h2o server (pid:7) is ready to serve requests
+fetch-ocsp-response (using LibreSSL 2.5.3)
+[OCSP Stapling] disabled for certificate file:/etc/h2o/server.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/alternate.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/server.crt
+failed to extract ocsp URI from /etc/h2o/alternate.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/alternate.crt
