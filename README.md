@@ -6,6 +6,14 @@ Raspberry Pi compatible Docker Image with H2O HTTP Server based on Linux Alpine.
 ```bash
 docker build -t jdequeant/rpi-alpine-h2o .
 ```
+## Run the Docker Image
+```bash
+docker run -d --name h2o -it -p 8080:8080 \
+-v /absolute/path/to/rpi-alpine-h2o/etc/h2o:/etc/h2o \
+-v /absolute/path/to/rpi-alpine-h2o/www:/www \
+-v /absolute/path/to/rpi-alpine-h2o/var/log/h2o:/var/log/h2o \
+rpi-alpine-h2o
+```
 
 ## License
 
