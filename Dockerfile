@@ -30,7 +30,7 @@ cmake -DCMAKE_C_FLAGS_RELEASE= \
 -Wno-dev && \
 make && \
 make install && \
-apk del alpine-sdk cmake openssl-dev automake libtool autoconf ninja bison && \
+apk del cmake automake libtool autoconf ninja bison && \
 rm -rf /var/cache/apk/* && \
 cd / && \
 mkdir -p /var/run/h2o && \
