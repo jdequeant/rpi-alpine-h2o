@@ -2,7 +2,9 @@ FROM hypriot/rpi-alpine-scratch:edge
 MAINTAINER jdequeant <jdequeant@gmail.com>
 
 # H2O HTTP Server - Install server and deps
-RUN apk update && \
+RUN echo "http://dl-cdn.alpinelinux.org/alpine/edge/main" >> /etc/apk/repositories && \
+echo "http://dl-cdn.alpinelinux.org/alpine/edge/community" >> /etc/apk/repositories && \
+apk update && \
 apk upgrade && \
 apk add bash perl git bison alpine-sdk cmake openssl-dev automake libtool autoconf ninja && \
 cd / && \
