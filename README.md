@@ -18,7 +18,7 @@ rpi-alpine-h2o
 
 ## Shell
 ```bash
-docker exec -ti h2o /bin/bash
+docker exec -ti h2o /bin/sh
 ```
 
 ## License
