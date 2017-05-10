@@ -1,3 +1,4 @@
+
 FROM hypriot/rpi-alpine-scratch:edge
 MAINTAINER Johan DEQUEANT <jdequeant@gmail.com>
 
@@ -59,9 +60,6 @@ RUN set -ex && \
 	cd / && \
 	mkdir -p /var/run/h2o /www /etc/h2o /var/log/h2o && \
 	touch /var/run/h2o/access-log /var/run/h2o/error-log
-
-# Expose volumes
-VOLUME ["/www", "/etc/h2o", "/var/log/h2o"]
 
 # Expose port
 EXPOSE 8080
