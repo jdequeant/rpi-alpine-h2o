@@ -53,3 +53,23 @@ h2o server (pid:1) is ready to serve requests
 [OCSP Stapling] disabled for certificate file:/etc/h2o/server.crt
 [OCSP Stapling] disabled for certificate file:/etc/h2o/alternate.crt
 received SIGTERM, gracefully shutting down
+h2o server (pid:24) is ready to serve requests
+[OCSP Stapling] disabled for certificate file:/etc/h2o/alternate.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/alternate.crt
+h2o server (pid:8) is ready to serve requests
+[OCSP Stapling] disabled for certificate file:/etc/h2o/alternate.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/alternate.crt
+h2o server (pid:1) is ready to serve requests
+[OCSP Stapling] disabled for certificate file:/etc/h2o/alternate.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/alternate.crt
+[lib/handler/fastcgi.c] in request:/:connection failed:connection failed
+h2o server (pid:1) is ready to serve requests
+[OCSP Stapling] disabled for certificate file:/etc/h2o/alternate.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/alternate.crt
+[lib/handler/fastcgi.c] in request:/:connection failed:connection failed
+received SIGTERM, gracefully shutting down
+h2o server (pid:1) is ready to serve requests
+[OCSP Stapling] disabled for certificate file:/etc/h2o/alternate.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/alternate.crt
+[lib/handler/fastcgi.c] in request:/:connection failed:Name does not resolve
+received SIGTERM, gracefully shutting down

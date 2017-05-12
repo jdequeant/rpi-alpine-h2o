@@ -67,4 +67,4 @@ EXPOSE 80 443
 WORKDIR /var/www
 
 # Start H2O server
-CMD ["/h2o/h2o", "-c", "/etc/h2o/h2o.conf"]
+CMD ["/h2o/h2o", "-c", "/etc/h2o/h2o_php.conf"]
