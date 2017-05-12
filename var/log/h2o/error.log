@@ -1,1 +1,55 @@
 
+h2o server (pid:27) is ready to serve requests
+[OCSP Stapling] disabled for certificate file:/etc/h2o/server.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/alternate.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/alternate.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/server.crt
+h2o server (pid:14) is ready to serve requests
+[OCSP Stapling] disabled for certificate file:/etc/h2o/server.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/server.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/alternate.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/alternate.crt
+h2o server (pid:7) is ready to serve requests
+fetch-ocsp-response (using LibreSSL 2.5.3)
+[OCSP Stapling] disabled for certificate file:/etc/h2o/alternate.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/server.crt
+failed to extract ocsp URI from /etc/h2o/alternate.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/alternate.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/server.crt
+h2o server (pid:7) is ready to serve requests
+[OCSP Stapling] disabled for certificate file:/etc/h2o/alternate.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/alternate.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/server.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/server.crt
+h2o server (pid:7) is ready to serve requests
+[OCSP Stapling] disabled for certificate file:/etc/h2o/server.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/alternate.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/server.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/alternate.crt
+h2o server (pid:7) is ready to serve requests
+[OCSP Stapling] disabled for certificate file:/etc/h2o/server.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/server.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/alternate.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/alternate.crt
+h2o server (pid:1) is ready to serve requests
+fetch-ocsp-response (using LibreSSL 2.5.4)
+[OCSP Stapling] disabled for certificate file:/etc/h2o/server.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/alternate.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/server.crt
+failed to extract ocsp URI from /etc/h2o/alternate.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/alternate.crt
+received SIGTERM, gracefully shutting down
+h2o server (pid:1) is ready to serve requests
+fetch-ocsp-response (using LibreSSL 2.5.4)
+[OCSP Stapling] disabled for certificate file:/etc/h2o/server.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/alternate.crt
+failed to extract ocsp URI from /etc/h2o/alternate.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/alternate.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/server.crt
+received SIGTERM, gracefully shutting down
+h2o server (pid:1) is ready to serve requests
+[OCSP Stapling] disabled for certificate file:/etc/h2o/server.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/alternate.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/server.crt
+[OCSP Stapling] disabled for certificate file:/etc/h2o/alternate.crt
+received SIGTERM, gracefully shutting down

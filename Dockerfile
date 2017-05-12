@@ -62,7 +62,9 @@ RUN set -ex && \
 	touch /var/run/h2o/access-log /var/run/h2o/error-log
 
 # Expose port
-EXPOSE 8080
+EXPOSE 80
+
+WORKDIR /www
 
 # Start H2O server
 CMD ["/h2o/h2o", "-c", "/etc/h2o/h2o.conf"]
