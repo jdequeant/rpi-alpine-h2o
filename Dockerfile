@@ -58,13 +58,14 @@ RUN set -ex && \
 		bison && \
 	rm -rf /var/cache/apk/* && \
 	cd / && \
-	mkdir -p /var/run/h2o /www /etc/h2o /var/log/h2o && \
+	mkdir -p /var/run/h2o /var/www /etc/h2o /var/log/h2o && \
 	touch /var/run/h2o/access-log /var/run/h2o/error-log
 
 # Expose port
 EXPOSE 80
+EXPOSE 443
 
-WORKDIR /www
+WORKDIR /var/www
 
 # Start H2O server
 CMD ["/h2o/h2o", "-c", "/etc/h2o/h2o.conf"]
