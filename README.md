@@ -9,7 +9,7 @@ docker build -t jdequeant/rpi-alpine-h2o .
 
 ## Run the Docker Image
 ```bash
-docker run -dit --name h2o -p 8080:8080 \
+docker run -dit --name h2o -p 8080:8080 -p 8081:8081 \
 -v /absolute/path/to/rpi-alpine-h2o/etc/h2o:/etc/h2o \
 -v /absolute/path/to/rpi-alpine-h2o/www:/www \
 -v /absolute/path/to/rpi-alpine-h2o/var/log/h2o:/var/log/h2o \
